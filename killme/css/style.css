@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    background: #fff;
+    border-radius: 30px;
+    /* box-shadow: 12px 12px 22px; */
+    border: 1px solid;
+}
+
+.login img{
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.login h1{
+    font-size: 4rem;
+    font-weight: 700;
+    font-family: 'Pacifico', cursive;
+}
+
+.inp{
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    box-shadow: 2px 1px 5px 5px #000;  
+}
+
+/* .btn1{
+    height: 50px;
+    width: 40%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    background-color: rgb(197, 72, 72);
+    color: #fff;
+}
+
+.btn1:hover{
+    background: rgb(240, 30, 30);
+    transition: 0.5s;
+}
+
+.btn2{
+    height: 40px;
+    width: 25%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight: 600;
+    background-color: rgb(197, 72, 72);
+    color: #fff;
+}
+
+.btn2:hover{
+    background: rgb(240, 30, 30);
+    transition: 0.5s;
+} */
+

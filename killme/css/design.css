@@ -1,0 +1,13 @@
+.design{
+    
+    border: 0px solid rgb(18, 16, 16);
+    background-color: rgba(236, 223, 223, 0.795);
+    padding: 50px 60px;
+    margin-top: 5vh;
+    /* box-shadow: 1px 4px 26px 11px rgba(0,0,0,0.75); */
+}
+
+.bg{
+    background-color: #fff;
+    background: cover;
+}
